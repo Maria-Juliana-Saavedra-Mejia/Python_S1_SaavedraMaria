@@ -109,22 +109,22 @@ def editarEstudiante():
         else:
                 nombres[edt-1][1]=(r)
     else:
-         print("Ingrese el nombre corregido")
-         r=input(": ")
-         nombres[edt-1][0]=(r)
+        print("Ingrese el nombre corregido")
+        r=input(": ")
+        nombres[edt-1][0]=(r)
     if tamapellido==2:
-         print("1. Primer apellido")
-         print("2. Segundo apellido")
-         t=int(input(": "))
-         if t==1:
-                ap=input("Digite el primer apellido corregido ")
-                apellidos[edt-1][0]=(ap)
-         else:
-                ap=input("Digite el segundo apellido")
-                apellidos[edt-1][1]=(ap)
+        print("1. Primer apellido")
+        print("2. Segundo apellido")
+        t=int(input(": "))
+        if t==1:
+            ap=input("Digite el primer apellido corregido ")
+            apellidos[edt-1][0]=(ap)
+        else:
+            ap=input("Digite el segundo apellido")
+            apellidos[edt-1][1]=(ap)
     else:
-            apr=input("Digite el apellido corregido")
-            apellidos[edt-1][0]=(apr)
+         apr=input("Digite el apellido corregido")
+         apellidos[edt-1][0]=(apr)
 
 def eliminarEstudiante():
     c1=0
