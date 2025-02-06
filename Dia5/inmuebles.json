@@ -1,0 +1,11 @@
+{ 
+    "listainmuebles":
+    [
+        {"Año":2000, "Metros": 100,"Habitaciones":3,"Garaje": "True", "Zona": "A" },
+        {"Año":2012, "Metros": 60,"Habitaciones":2,"Garaje": "True", "Zona": "B" },
+        {"Año":1980, "Metros": 120,"Habitaciones":4,"Garaje": "False", "Zona": "A"},
+        {"Año":2005, "Metros": 75,"Habitaciones":3,"Garaje": "True", "Zona": "B"},
+        {"Año":2015, "Metros": 90,"Habitaciones":2,"Garaje": "False", "Zona": "A"}
+    ]
+
+    }
