@@ -1,0 +1,118 @@
+{
+    "Fantasia": [
+        {
+            "Libro": "El señor de los anillos",
+            "Año": "1959",
+            "Autor": "J. R. R. Tolkien",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "Harry potter y las reliquias de la muerte",
+            "Año": "2007",
+            "Autor": "J. K. Rowling",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "Alas de onix",
+            "Año": "2025",
+            "Autor": "Rebecca Yarros",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "Seis de cuervos",
+            "Año": "2015",
+            "Autor": "Leigh Bardugo",
+            "Disponibilidad": false
+        },
+        {
+
+        }
+    ],
+    "Terror": [
+        {
+            "Libro": "Dracula",
+            "Año": "1897",
+            "Autor": "Bram Stoker",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "Misery",
+            "Año": "1987",
+            "Autor": "Stephen King",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "El fantasma de la opera",
+            "Año": "1909",
+            "Autor": "Gaston Leroux",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "Gòtico",
+            "Año": "2020",
+            "Autor": "Silvia Moreno-Garcia",
+            "Disponibilidad": true
+        },
+        {
+            
+        }
+    ],
+    "Accion y Aventura": [
+        {
+            "Libro": "Cinco semanas en globo",
+            "Año": "1863",
+            "Autor": "Julio Verne",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "La leyenda del ladròn",
+            "Año": "2012",
+            "Autor": "Juan Gómez-Jurado",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "Percy Jacson el ladron del rayo",
+            "Año": "2005",
+            "Autor": "Rick Riordan",
+            "Disponibilidad": true
+        },
+        {
+            "Libro": "Ébano",
+            "Año": "2019",
+            "Autor": "Mercedes Ron",
+            "Disponibilidad": false
+        },
+        {
+            
+        }
+    ],
+    "Ciencia Ficcion": [
+        {
+            "Libro": "Dune",
+            "Año": "1965",
+            "Autor": "Frank Herbert",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "La guerra de los mundos",
+            "Año": "1887",
+            "Autor": "H. G. Wells",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "El marciano",
+            "Año": "2011",
+            "Autor": "Andy Weir",
+            "Disponibilidad": false
+        },
+        {
+            "Libro": "Soy leyenda",
+            "Año": "1954",
+            "Autor": "Richard Matheson",
+            "Disponibilidad": true
+        },
+        {
+            
+        }
+    ]
+}
