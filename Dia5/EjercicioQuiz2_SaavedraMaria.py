@@ -27,7 +27,7 @@ while booleano==True:
             año=int(input("Digite el año de su inmueble"))
             metro=int(input("Digite los metros de su inmueble"))
             habitaciones=int(input("Digite la cantidad e habitaciones de su inmueble"))
-            garaje=bool(input("¿Tiene Garaje"))
+            garaje=int(input("¿Tiene Garaje"))
             print("1. si")
             print("2. no")
             g=int(input("Digite la opcion: "))
@@ -37,14 +37,17 @@ while booleano==True:
                 garaje=False 
             else:
                 print=("codigo incorrecto")
-            zona=str(input("digite la zona en que esta ubicado (A) O (B)"))
+            zona=input("digite la zona en que esta ubicado (A) O (B)")
+            
         if admin==2:
             for i in range(len(inmuebles["listainmuebles"])):
                 print(inmuebles["listainmuebles"][i])
 
         if admin==3:
+            print()
 
         if admin==4:
+            print()
 
         if admin==5:
             break
