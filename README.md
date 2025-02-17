@@ -28,6 +28,8 @@ Ejercicios iniciales Python: Para estos ejercicios solo se necesita ingresar los
 > [**Día 2**]
 Ejercicios nivel intermedio Python:Para estos ejercicios solo se necesita ingresar los diferentes valores o palabras que son requeridas. En estos proyectos se deben ingresar valores enteros y frases en el caso del ejercicio de las frases paralelas. 
 
+> [**Día 3**]
+ Explicaion sobre listas y diccionarios, ejemplos de los mismos: se muestran los archivos con la explicaion dada por el Trainer y ejercicios que retratan de manera clara lo explicado en clase. 
 
 > [**Día 4**]
 Ejercicio sobre listas y diccionarios: en este ejercicio ya se trabaja con las listas de nombres y apellidos de estudiantes. Para que funcionen correctamente, los nombres y apellidos de los estudiantes deben ir en la misma posición que las diferentes listas. Por ejemplo, si el primer estudiante se llama Carlos Cárdenas Saavedra, en la lista de apellidos debe ir en primera posición -Cárdenas Saavedra- y en la de los nombres debe ir en la primera posición -Carlos-, así evitamos que los nombres salgan con un apellido que no les corresponde. Además, se puede agregar, quitar o editar los estudiantes según lo requiera el usuario.
