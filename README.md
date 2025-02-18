@@ -1,4 +1,4 @@
-# **Clases Python y Trabajos**
+# **Python_S1_SaavedraMaria**
 
 En este repositorio se encuentran los diferentes ejercicios realizados dentro y fuera de clase con la temática de Python, junto con los ejercicios y explicaciones enviadas por el profesor. El objetivo del presente es tener un compilado de lo visto sobre Python y tener a la mano el material de estudio.
 
