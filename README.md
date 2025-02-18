@@ -6,14 +6,12 @@ En este repositorio se encuentran los diferentes ejercicios realizados dentro y 
 
 | Dias | Contenidos |
 |--|--|
-| Día 1 | Explicación basicos Python: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/blob/master/Dia1/Main.py.|
-| Día 1 | Ejercicios iniciales Python: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia1 |
+| Día 1 | Explicación basicos Python: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/blob/master/Dia1/Main.py. Ejercicios iniciales Python: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia1 |
 | Día 2 | Ejercicios nivel intermedio Python: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia2|
 | Dia 3  | Explicaion sobre listas y diccionarios, ejemplos de los mismos: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia3 |
 | Día 4 | Ejercico sobre listas y diccionarios: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia4 |
 | Día 5 | Ejercicio inmuebles con CRUD: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia5 |
-| Día 6  | Ejercicio inmuebles corrección: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia6/inmuebles |
-| Día 6 | Ejercicio propuesta: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia6 |
+| Día 6  | Ejercicio inmuebles corrección: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia6/inmuebles  Ejercicio propuesta: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/tree/master/Dia6 |
 | Día  7 | Ejercicio Calculadora: https://github.com/Maria-Juliana-Saavedra-Mejia/Python_S1_SaavedraMaria/blob/master/Calculadora.py |
 
 # **Instalación**
